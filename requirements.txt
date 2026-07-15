@@ -1,0 +1,6 @@
+pynput
+pygetwindow
+keyboard
+win32api
+pillow
+requests
